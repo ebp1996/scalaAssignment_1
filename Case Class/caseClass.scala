@@ -1,4 +1,4 @@
-object caseCase extends App {
+object caseClass extends App {
   val p1=new graphPoint(2,6)
   val p2=new graphPoint(-2,-2)
   val p3=p1.move(2,3)
